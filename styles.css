@@ -1,0 +1,13 @@
+.container {
+    width: 1140px;
+    margin: 0 auto;
+    padding-top: 200px;
+}
+
+table, table th, table td {
+    border: 1px solid black;
+}
+
+table th {
+    font-size: 28px;
+}
